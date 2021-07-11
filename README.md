@@ -18,11 +18,18 @@ I will create a Jupyter notebook that contains the code for my data collection, 
 
 This project leverages python 3.7 with the following modules:
 
+* [pandas](https://github.com/pandas-dev/pandas) - For reading data into a DataFrame.
+
 ---
 
 ## Installation Guide
 
 Before running the application first install the following dependencies:
+
+```python
+  pip install pandas
+  pip install mkdocs
+```
 
 ---
 
