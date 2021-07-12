@@ -20,6 +20,10 @@ This project leverages python 3.7 with the following modules:
 
 * [pandas](https://github.com/pandas-dev/pandas) - For reading data into a DataFrame.
 
+* [pathlib](https://docs.python.org/3/library/pathlib.html) - For representing the file system path to a csv.
+
+* [matplotlib](https://matplotlib.org/stable/users/index.html) - For embedding plots in the application.
+
 ---
 
 ## Installation Guide
@@ -34,6 +38,16 @@ Before running the application first install the following dependencies:
 ---
 
 ## Usage
+
+To use the cryptocurrency arbitrage analysis:
+
+Clone the Module_3_Challenge repository from GitHub:
+
+'git clone https://github.com/jpweldon/Module_3_Challenge.git'
+
+Run the crypto_arbitrage.ipynb program.
+
+Examine the statistics, graphs, charts, and included analysis.
 
 ---
 
